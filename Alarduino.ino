@@ -1,7 +1,6 @@
 /****************************************************************************
 *                                                                           *
 *  Projeto Alarduino: Alarme Arduino Pro Micro com LCD 20x4, Buzzer e Leds  *
-*                     http://www.alogino.wix.com/blog                       *
 *                                                                           *
 ****************************************************************************/
 //Bibliotecas para Manipular o Módulo RTC e o LCD i2c
